@@ -19,11 +19,6 @@ const awards = ['a gem', 'a potion', 'herbs', 'spell'];
 const enemies = ['Wraith', 'Harpee', 'Griffin', 'Siren'];
 const actions = ['walk', 'print', 'exit'];
 
-//let attack = readline.keyIn('a');
-//let run = readline.keyIn('r');
-//let walk = readline.keyIn('w');
-
-
 let inventory = [];
 
 function rpgInfo(){
